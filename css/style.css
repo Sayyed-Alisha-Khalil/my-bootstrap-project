@@ -1,0 +1,345 @@
+* {
+    font-family: "Inter", sans-serif;
+    ;
+}
+
+.whatsappbtn {
+    border: 1px solid #27AE60;
+    color: #27AE60;
+    padding: 10px 18px;
+    font-size: 16px;
+}
+
+.whatsappbtn:hover {
+    border: 1px solid #27AE60;
+}
+
+.whatsappbtn i {
+    color: #27AE60;
+}
+
+.callbtn {
+    color: white;
+    padding: 10px 18px;
+    font-size: 16px;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+}
+
+.bannercontant h1 {
+    font-family: inter;
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.bannercontant h1 span {
+    color: #2699FB;
+    background: url("../images/line.png.png") no-repeat bottom;
+}
+
+.bannercontant p {
+    font-size: 22px;
+}
+
+.bannercontant ul li {
+    list-style: none;
+}
+
+.bannercontant ul li i {
+    color: #2699FB;
+}
+
+.bannercontant ul li {
+    font-size: 22px;
+}
+
+.bannercontantbtn button {
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+}
+
+.bannercontantbtn button:first-child {
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    color: white;
+}
+
+.bannerform {
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.bannerform h3 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bannerform p {
+    font-size: 12px;
+}
+
+.bannerform button {
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    width: 100%;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 4px;
+}
+
+.countersection h3 {
+    color: #2699FB;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.countersection p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.highlightsection {
+    background-color: #F7FAFF;
+}
+
+.highlightsection h2 {
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.highlightsection p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.highlightitems h4 {
+    font-size: 20px;
+    color: #0A2134;
+    font-weight: 600;
+}
+
+.highlightitems p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.highlightbtn {
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+}
+
+.careersection h2 {
+    font-size: 44px;
+    font-weight: 700;
+    color: #0A2134;
+    line-height: 50px;
+}
+
+.careersection p {
+    font-size: 18px;
+    font-weight: 400;
+    columns: #0A2134;
+    line-height: 27px;
+}
+
+.careeritem h4 {
+    font-size: 23px;
+    font-weight: 600;
+    letter-spacing: 2%;
+    color: #0A2134;
+}
+
+.careeritem p {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.certificatesection h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.certificatesection p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+    line-height: 27px;
+}
+
+.certificateitem h3 {
+    font-weight: 700;
+    font-size: 20px;
+    color: #0A2134;
+
+}
+
+.certificateitem p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #0A2134;
+}
+
+.certificatebtn {
+    color: white;
+    border-radius: 5px;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+
+}
+
+.tabsection h2 {
+    font-weight: 700;
+    font-size: 44px;
+    color: #0A2134;
+}
+
+.tabsection p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.tabsec ul li {
+    list-style: none;
+}
+
+.tabsec ul li i {
+    color: #2699FB;
+    font-size: 28px;
+}
+
+.tabbtn {
+    color: white;
+    border-radius: 5px;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    font-size: 20px;
+}
+
+.marketsection h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.marketsection p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.marketitem h3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.marketitem p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.marketbtn {
+    color: white;
+    border-radius: 5px;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    font-size: 20px;
+    border: none;
+}
+
+.studentsection h2 {
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.studentsection p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.studentitem h3 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.studentitem p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.readysection {
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    border-radius: 30px;
+}
+
+.readysection h1 {
+    color: white;
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.readysection p {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.readybtn {
+    padding: 10px 35px;
+    border-radius: 5px;
+    color: black;
+    border: none;
+    background-color: white;
+    font-weight: bold;
+    transition: all 0.4s ease-in-out;
+}
+
+.readybtn:hover {
+    transform: scale(1.1);
+}
+
+.faqsection h2 {
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.faqsection p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.faqbtn {
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 0px 2px #0ACEFE;
+    background-color: #2699FB;
+}
+
+.companysec h1 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.endingsec {
+    background-color: #0A2540;
+}
+
+.enditem img {
+    font-size: 15px;
+}
+
+.enditem p {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.enditem hr {
+    color: white;
+}
+
+.enditem h6 {
+    color: white
+}

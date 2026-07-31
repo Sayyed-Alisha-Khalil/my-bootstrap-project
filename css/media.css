@@ -1,0 +1,162 @@
+@Media only screen and (min-width:200px) and (max-width:575px) {
+    .btn-outer {
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        background-color: white;
+        justify-content: center !important;
+        background: white;
+        padding: 5px 0px;
+    }
+
+    .whatsappbtn,
+    .callbtn {
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+
+    .bannercontant h1 {
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 35px;
+    }
+
+    .bannercontant br {
+        display: none;
+    }
+
+    .bannercontant h1 span {
+        color: #2699FB;
+        background: url("../images/line.png.png") no-repeat bottom;
+    }
+
+    .bannercontant p,
+    .bannercontant ul li {
+        font-size: 16px;
+    }
+
+    .bannercontantbtn {
+        flex-direction: column;
+    }
+
+    .bannercontantbtn button {
+        width: 100%;
+    }
+
+    .bannerform {
+        padding: 20px;
+    }
+
+    .highlightsection h2 {
+        color: #0A2134;
+        font-size: 30px;
+    }
+
+    .highlightsection p {
+        font-size: 14px;
+    }
+
+    .highlightbtn {
+        color: white;
+        background: linear-gradient(to right, #0ACEFE, #2699FB);
+        border-radius: 5px;
+        font-size: 19px;
+        border: none;
+    }
+
+    .careersection h2 {
+        font-size: 30px;
+        font-weight: 700;
+        color: #0A2134;
+        line-height: 40px;
+    }
+
+    .careersection p {
+        font-size: 15px;
+        font-weight: 400;
+        columns: #0A2134;
+        line-height: 20px;
+    }
+
+    .certificatebtn {
+        width: 100%;
+    }
+
+    .tabsection h2 {
+        font-size: 24px;
+    }
+
+    .tabsection p {
+        font-size: 12px;
+    }
+
+    .container .row .tabsection h2 br {
+        display: none !important;
+    }
+
+    .tabbtn {
+        font-size: 15px;
+    }
+
+    .studentsection h2 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .studentsection p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .studentitem {
+        padding: 0;
+    }
+
+    .studentitem p {
+        font-size: 14px;
+
+    }
+
+    .readysection h1 {
+        font-size: 28px;
+        font-weight: 700;
+    }
+
+    .readysection p {
+
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .readybtn {
+        border-radius: 5px;
+        width: 80%;
+    }
+
+    .companysec h1 {
+        font-size: 25px;
+        font-weight: 700;
+        padding: 0%;
+    }
+
+    .companysec img {
+        display: none !important;
+    }
+
+    .enditem p {
+        color: white;
+        font-size: 10px;
+        font-weight: 400;
+    }
+
+    .enditem hr {
+        color: white;
+    }
+
+    .enditem h6 {
+        font-size: 10px;
+    }
+
+}
